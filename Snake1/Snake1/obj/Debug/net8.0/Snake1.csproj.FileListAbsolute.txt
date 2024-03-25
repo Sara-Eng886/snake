@@ -1,0 +1,14 @@
+C:\Users\SaRa\source\repos\Snake1\Snake1\bin\Debug\net8.0\Snake1.exe
+C:\Users\SaRa\source\repos\Snake1\Snake1\bin\Debug\net8.0\Snake1.deps.json
+C:\Users\SaRa\source\repos\Snake1\Snake1\bin\Debug\net8.0\Snake1.runtimeconfig.json
+C:\Users\SaRa\source\repos\Snake1\Snake1\bin\Debug\net8.0\Snake1.dll
+C:\Users\SaRa\source\repos\Snake1\Snake1\bin\Debug\net8.0\Snake1.pdb
+C:\Users\SaRa\source\repos\Snake1\Snake1\obj\Debug\net8.0\Snake1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaRa\source\repos\Snake1\Snake1\obj\Debug\net8.0\Snake1.AssemblyInfoInputs.cache
+C:\Users\SaRa\source\repos\Snake1\Snake1\obj\Debug\net8.0\Snake1.AssemblyInfo.cs
+C:\Users\SaRa\source\repos\Snake1\Snake1\obj\Debug\net8.0\Snake1.csproj.CoreCompileInputs.cache
+C:\Users\SaRa\source\repos\Snake1\Snake1\obj\Debug\net8.0\Snake1.dll
+C:\Users\SaRa\source\repos\Snake1\Snake1\obj\Debug\net8.0\refint\Snake1.dll
+C:\Users\SaRa\source\repos\Snake1\Snake1\obj\Debug\net8.0\Snake1.pdb
+C:\Users\SaRa\source\repos\Snake1\Snake1\obj\Debug\net8.0\Snake1.genruntimeconfig.cache
+C:\Users\SaRa\source\repos\Snake1\Snake1\obj\Debug\net8.0\ref\Snake1.dll
